@@ -1,0 +1,5 @@
+{
+  "name": "WebWatch: Change Detection Dashboard",
+  "description": "A real-time website monitoring tool that detects content changes using SHA-256 hashing and notifies via WebSockets.",
+  "requestFramePermissions": []
+}
