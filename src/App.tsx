@@ -66,7 +66,7 @@ export default function App() {
           <div>
             <h1 className="text-3xl font-bold tracking-tight text-white mb-2 flex items-center gap-3">
               <Globe className="text-blue-500" />
-              WebWatch
+              WebWatch  Fixed by Wat IDE - Pulled from main by 
             </h1>
             <p className="text-gray-400">Real-time website change detection dashboard</p>
           </div>
